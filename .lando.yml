@@ -1,0 +1,10 @@
+name: build-kit
+recipe: wordpress
+config:
+  webroot: .
+services:
+  mail:
+    type: mailhog
+    portforward: true
+    hogfrom:
+      - appserver
