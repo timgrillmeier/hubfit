@@ -1,5 +1,5 @@
 {
-    "acf_pro_license": "YToyOntzOjM6ImtleSI7czo3MjoiYjNKa1pYSmZhV1E5TXpReE9UWjhkSGx3WlQxa1pYWmxiRzl3WlhKOFpHRjBaVDB5TURFMExUQTNMVEV3SURBeU9qQTJPak00IjtzOjM6InVybCI7czoyNjoiaHR0cDovL2J1aWxkLWtpdC5sbmRvLnNpdGUiO30=",
+    "acf_pro_license": "YToyOntzOjM6ImtleSI7czo3MjoiYjNKa1pYSmZhV1E5TXpReE9UWjhkSGx3WlQxa1pYWmxiRzl3WlhKOFpHRjBaVDB5TURFMExUQTNMVEV3SURBeU9qQTJPak00IjtzOjM6InVybCI7czoyMzoiaHR0cDovL2h1YmZpdC5sbmRvLnNpdGUiO30=",
     "active_plugins": "a:8:{i:0;s:29:\"gravityforms\/gravityforms.php\";i:1;s:44:\"wp-native-php-sessions\/pantheon-sessions.php\";i:2;s:34:\"advanced-custom-fields-pro\/acf.php\";i:3;s:33:\"classic-editor\/classic-editor.php\";i:5;s:61:\"pantheon-advanced-page-cache\/pantheon-advanced-page-cache.php\";i:6;s:26:\"post-smtp\/postman-smtp.php\";i:7;s:27:\"redirection\/redirection.php\";i:8;s:17:\"wp-cfm\/wp-cfm.php\";}",
     "admin_email": "support@orangedigital.com.au",
     "blog_public": "0",
@@ -23,8 +23,8 @@
     "show_comments_cookies_opt_in": "1",
     "show_on_front": "page",
     "start_of_week": "0",
-    "stylesheet": "build-kit\/resources",
-    "template": "build-kit\/resources",
+    "stylesheet": "hubfit\/resources",
+    "template": "hubfit\/resources",
     "thread_comments": "",
     "thread_comments_depth": "5",
     "thumbnail_size_h": "150",

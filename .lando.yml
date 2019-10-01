@@ -1,4 +1,4 @@
-name: build-kit
+name: hubfit
 recipe: wordpress
 config:
   webroot: .
